@@ -540,15 +540,13 @@
     .footer-logo1{
         width: 78px;
         height: 71px;
-        margin-top: 63px;
-        margin-left: 64px;
+        margin-top: 57px;
+        margin-left: 113px;
     }
     .footer-logo2{
         width: 130px;
         height: 30px;
         margin-top: 78px;
-        margin-left: 15px;
-
     }
     .footer-text1{
         display: block;
@@ -556,8 +554,8 @@
         font-size: 17px;
         line-height: 30px;
         color: #000000;
-        margin-left: 144px;
-        margin-top: 552px;
+        margin-left: 113px;
+        margin-top: 90px;
     }
     .footer-text2{
         display: block;
@@ -565,12 +563,10 @@
         font-size: 17px;
         line-height: 30px;
         color: #000000;
-        margin-left: 68px;
-        margin-top: 13px;
+        margin-left: 113px;
+        margin-top: 4px;
     }
     .footer-text3{
-        text-align: center;
-        display: block;
         width: 319px;
         height: 63px;
         display: block;
@@ -578,28 +574,28 @@
         font-size: 17px;
         line-height: 30px;
         color: #000000;
-        margin-left: 19px;
-        margin-top: -595px;
+        margin-left: 559px;
+        margin-top:-200px;
     }
     .footer-text4{
         width: 145px;
         height: 30px;
         display: block;
         font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
+        font-size: 17px;
+        line-height: 30px;
         color: #000000;
-        margin-left: 105px;
-        margin-top: 45px;
+        margin-left: 559px;
+        margin-top: 58px;
     }
     .footer-number{
         width: 369px;
         height: 48px;
         font-weight: 700;
-        font-size: 20px;
-        line-height: 24px;
+        font-size: 40px;
+        line-height: 48px;
         color: #FBBA1D;
-        margin-left: 85px
+        margin-left: 559px;
     }
     .bottom1{
         text-decoration: none;
@@ -615,7 +611,7 @@
         line-height: 24px;
         border-radius: 30px;
         border: 1px solid #000000;
-        margin: 58px 170px 16px 114px;
+        margin: -220px 170px 16px 1140px;
     }
     .bottom2{
         text-decoration: none;
@@ -631,7 +627,7 @@
         line-height: 24px;
         border-radius: 30px;
         border: 1px solid #000000;
-        margin: 16px 170px 16px 84px;
+        margin: 16px 170px 16px 1140px;
         white-space: nowrap;
     }
     .bottom3{
@@ -648,7 +644,7 @@
         line-height: 24px;
         border-radius: 30px;
         border: 1px solid #000000;
-        margin: 16px 170px 16px 104px;
+        margin: 16px 170px 16px 1140px;
     }
     .bottom-yellow{
         text-decoration: none;
@@ -664,7 +660,7 @@
         line-height: 24px;
         border-radius: 30px;
         border: 1px solid #000000;
-        margin: 16px 170px 16px 111px;
+        margin: 16px 170px 16px 1140px;
     }
 
 }

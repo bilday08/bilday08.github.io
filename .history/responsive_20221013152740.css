@@ -1,0 +1,303 @@
+/*mobile: width < 361px*/
+@media only screen and (max-width: 361px) {
+    /*hedder*/
+    .container-top{
+        width: 360px;
+        background-image: url(./images/herder-mobi.png);
+        background-repeat: no-repeat;
+        background-size: auto;
+        position: absolute;
+    }
+    .herder-log{
+        width: 53.83px;
+        height: 49px;
+        margin-top: 24px;
+        margin-left: 21px;
+    }
+    .herder-log--line{
+        width: 89.72px;
+        height: 20.7px;
+        margin-top: 45.39px;
+        margin-left: 74.83px;
+    }
+    .herder-log-menu{
+        display: block;
+        width: 30px;
+        height: 30px;
+        margin-top: -29px;
+        margin-left: 305px;
+    }
+    .herder-phone--text{
+        width: 129px;
+        height: 19px;
+        margin-top: 16px;
+        margin-left: 21px;
+        white-space: nowrap;
+    }
+    .herder-phone--number{
+        width: 185px;
+        height: 24px;
+        margin-top: 8px;
+        margin-left: 21px;
+    }
+    .herder-images--contact{
+        display: none;
+    }
+    .herder-button--brand{
+        display: none;
+    }
+    .herder-button--bottom{
+        display: none;
+    }
+    .container-center{
+        width: 360px;
+        background-image: url(./images/herder-br-mobi.png);
+        background-size: 100%;
+        background-repeat: no-repeat;
+        margin-top: 475px;
+    }
+    .herder-images--top_center{
+        display: none;
+    }
+    .herder-background--content1{
+        width: 193px;
+        height: 43px;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+        margin-top: -388px;
+        margin-left: 83px;
+    }
+    .herder-background--content2{
+        width: 328px;
+        height: 146px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        text-align: center;
+        color: #000000;
+        margin-left: 16px;
+        margin-top: 32px;
+    }
+    .herder-backgroud--button1{
+        width: 271px;
+        height: 41px;
+        text-align: center;
+        margin-left: 42px;
+        margin-top: 44px;
+    }
+    .center-button--white{
+        text-decoration: none;
+        width: 333px;
+        height: 776px;
+        background-color:#FFFFFF;
+        border-radius: 33px;
+        display: block;
+        margin-top: 290px;
+        margin-left: 13px;
+    }
+    .center-button--first1{
+        display: block;
+        font-weight: 600;
+        font-size: 100px;
+        line-height: 121px;
+        color: #646464;
+        margin-left: 40px;
+    }
+    .center-button--first2{
+        width: 240px;
+        height: 33px;
+        display: block;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 30px;
+        color: #000000;
+        margin-left: 53px;
+        margin-bottom: 80px;
+    }
+    .center-button--second1{
+        width: 224px;
+        height: 124px;
+        font-style: normal;
+        font-weight: 600;
+        font-size: 100px;
+        line-height: 121px;
+        color: #646464;
+        display: block;
+        margin-left: 31px;
+        margin-top: 63px
+    }
+    .center-button--second2{
+        display: block;
+        position: absolute;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 30px;
+        color: black;
+        margin-left: 102px;
+        margin-bottom: 79px;
+    }
+    .center-button--third1{
+        display: block;
+        font-weight: 600;
+        font-size: 100px;
+        line-height: 121px;
+        color: #646464;
+        margin-left: 96px;
+        margin-top: 79px;
+    }
+    .center-button--third2{
+        display: block;
+        position: absolute;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 30px;
+        line-height: 30px;
+        color: black;
+        margin-left: 125px;
+    }
+    /*main*/
+    .global-heading{
+        width: 239px;
+        height: 34px;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: #000000;
+        margin-top: 156px;
+        margin-left: 60px;
+        text-align: center;
+        white-space: nowrap;
+    }
+    .global-text{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        color: #000000;
+        width: 271px;
+        height: 166px;
+        margin-left: 44px;
+        margin-top: 17px;
+        margin-bottom: -285px;
+        text-align: center;
+    }
+    .service-button--first{
+        text-decoration: none;
+        text-align: center;
+        display: block;
+        padding: 8px 39px;
+        color: black;
+        background-color: #FBBA1D;
+        width: 271px;
+        height: 41px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        border-radius: 30px;
+        white-space: nowrap;
+        margin-left: 44px;
+        margin-top: 570px;
+    }
+    .service-images--first{
+        width: 313px;
+        height: 193px;
+        display: block;
+        margin-top: -295px;
+        margin-left: 14px;
+    }
+    .global-heading2{
+        text-align: center;
+        width: 237px;
+        height: 24px;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        color: #000000;
+        margin-top: -450px;
+        margin-left: 65px;
+    }
+    .global-text2{
+        text-align: center;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        color: #000000;
+        width: 265px;
+        height: 172px;
+        margin-left: 47px;
+        margin-top: 32px;
+    }
+    .service-images--sencond{
+        width: 313px;
+        height: 180px;
+        display: block;
+        margin-top: 501px;
+        margin-left: 23px;
+    }
+    .service-button--second{
+        text-decoration: none;
+        text-align: center;
+        display: block;
+        padding: 8px 39px;
+        color: black;
+        background-color: #FBBA1D;
+        width: 271px;
+        height: 41px;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        border-radius: 30px;
+        white-space: nowrap;
+        margin-left: 44px;
+        margin-top: 306px;
+    }
+    .container-brand{
+        background-image: url(./images/Rectangle\ 11.png);
+        background-repeat: no-repeat;
+        background-size: auto;
+        position: absolute;
+        width: 360px;
+        height: 278px;
+        margin-top: 179px;
+    }
+    .brand-images1{
+        width: 129px;
+        height: 65px;
+        margin-top: 53px;
+        margin-left: 18px;
+    }
+    .brand-images2{
+        width: 143px;
+        height: 52px;
+        margin-top: -83px;
+        margin-left: 198px;
+    }
+    .brand-images3{
+        width: 81px;
+        height: 55px;
+        margin-top: 26px;
+        margin-left: 136px;
+    }
+    .brand-images4{
+        width: 81px;
+        height: 26px;
+        margin-top: 41px;
+        margin-left: -23px;
+    }
+    .brand-images5{
+        width: 81px;
+        height: 53px;
+        margin-top: 25px;
+        margin-left: 34px;
+    }
+    .brand-images6{
+        width: 146px;
+        height: 29px;
+        margin-top: 27px;
+        margin-left: 102px;
+    }
+
+}

@@ -167,8 +167,8 @@
         font-size: 20px;
         line-height: 24px;
         color: #000000;
-        margin-top: 100px;
-        margin-left: 40px;
+        margin-top: 156px;
+        margin-left: 60px;
         text-align: center;
         white-space: nowrap;
     }
@@ -179,7 +179,7 @@
         color: #000000;
         width: 271px;
         height: 166px;
-        margin-left: 30px;
+        margin-left: 44px;
         margin-top: 17px;
         margin-bottom: -285px;
         text-align: center;
@@ -217,7 +217,7 @@
         line-height: 24px;
         color: #000000;
         margin-top: -450px;
-        margin-left: 55px;
+        margin-left: 65px;
     }
     .global-text2{
         text-align: center;
@@ -303,10 +303,10 @@
         width: 261px;
         height: 48px;
         font-weight: 600;
-        font-size: 20px;
-        line-height: 24px;
+        font-size: 40px;
+        line-height: 24.2px;
         color: #000000;
-        margin-top: 535px;
+        margin-top: 75px;
         margin-left: 49px;
         text-align: center;
     }
@@ -319,26 +319,26 @@
     .icon-images2{
         width: 92px;
         height: 93px;
-        margin-left: 128px;
-        margin-top: 111px;
+        margin-left: 98px;
+        margin-top: 101px;
     }
     .icon-images3{
         width: 119px;
         height: 128px;
-        margin-left: 121px;
-        margin-top: 120px;
+        margin-left: 135px;
+        margin-top: 88px;
     }
     .icon-images4{
         width: 119px;
         height: 126px;
-        margin-left: 121px;
-        margin-top: 121px;
+        margin-left: 127px;
+        margin-top: 88px;
     }
     .icon-images5{
         width: 116px;
         height: 101px;
-        margin-left: 122px;
-        margin-top: 123px;
+        margin-left: 90px;
+        margin-top: 99px;
     }
     .icon-text1{
         text-align: center;
@@ -349,7 +349,7 @@
         font-size: 30px;
         line-height: 30px;
         color: #000000;
-        margin-top: -900px;
+        margin-top: 25px;
         margin-left: 138px;
     }
     .icon-text2{
@@ -361,8 +361,8 @@
         font-size: 30px;
         line-height: 30px;
         color: #000000;
-        margin-top: 190px;
-        margin-left: 74px;
+        margin-top: -33px;
+        margin-left: 386px;
     }
     .icon-text3{
         text-align: center;
@@ -373,8 +373,8 @@
         font-size: 30px;
         line-height: 30px;
         color: #000000;
-        margin-top: 200px;
-        margin-left: 80px;
+        margin-top: -33px;
+        margin-left: 636px;
     }
     .icon-text4{
         text-align: center;
@@ -385,8 +385,8 @@
         font-size: 30px;
         line-height: 30px;
         color: #000000;
-        margin-top: 212px;
-        margin-left: 69px;
+        margin-top: -33px;
+        margin-left: 866px;
     }
     .icon-text5{
         text-align: center;
@@ -397,274 +397,8 @@
         font-size: 30px;
         line-height: 30px;
         color: #000000;
-        margin-top: 205px;
-        margin-left: 135px;
-    }
-    .login-box{
-        width: 329px;
-        height: 643px;
-        border: 1px solid #FBBA1D;
-        border-radius: 33px;
-        margin-top: 441px;
-        margin-left: 20px;
-        
-    }
-    .box-heading{
-        display: block;
-        text-align: center;
-        width: 295px;
-        height: 113px;
-        font-weight: 600;
-        font-size: 20px;
-        line-height: 23px;
-        color: #000000;
-        margin-top: 46px;
-        margin-left: 20px;
-    }
-    .box-text{
-        text-align: center;
-        display: block;
-        width: 295px;
-        height: 113px;
-        font-weight: 400;
-        font-size: 14px;
-        line-height: 23px;
-        color: #000000;
-        margin-top: -85px;
-        margin-left: 20px;
-    }
-    .titles1{
-        display: block;
-        font-weight: 400;
-        font-size: 17px;
-        color: #646464;
-        line-height: 67px;
-        margin-top: -417px;
-        margin-left: 48px;
-    }
-    .titles2{
-        display: block;
-        font-weight: 400;
-        font-size: 17px;
-        color: #646464;
-        line-height: 67px;
-        margin-left: 48px
-    }
-    .titles3{
-        display: block;
-        font-weight: 400;
-        font-size: 17px;
-        color: #646464;
-        line-height: 67px;
-        margin-left: 48px
-    }
-    .underlined1{
-        display: block;
-        position: absolute;
-        width: 268px;
-        height: 0px;
-        border: 1px solid #000000;
-        margin-left: 48px;
-    }
-    .underlined2{
-        display: block;
-        position: absolute;
-        width: 268px;
-        height: 0px;
-        border: 1px solid #000000;
-        margin-left: 48px
-    }
-    .underlined3{
-        display: block;
-        position: absolute;
-        width: 268px;
-        height: 0px;
-        border: 1px solid #000000;
-        margin-left: 48px
-    }
-    .login-login--button {
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        padding: 8px 41px;
-        color: black;
-        background-color: #FBBA1D;
-        width: 146px;
-        height: 41px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        border-radius: 30px;
-        white-space: nowrap;
-        margin-top: 54px;
-        margin-left: 112px;
-    }
-    .login-contact--number{
-        text-align: center;
-        display: block;
-        width: 294px;
-        height: 37px;
-        font-weight: 900;
-        font-size: 30px;
-        line-height: 25px;
-        color: #FBBA1D;
-        margin-left: 33px;
-        margin-top: -800px;
-    }
-    .login-contact--text{
-        text-align: center;
-        display: block;
-        width: 172px;
-        height: 33px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 30px;
-        margin-left: 94px;
-        margin-top: 20px;
-    }
-    .login-contact--images{
-        width: 308px;
-        height: 80px;
-        margin-left: 26px;
-        margin-top: 34px;
-    }
-    .container-bottom{
-        margin-top: 1259px;
-        width: 360px;
-        height: 788px;
-        background: #FBFBFB;
-        font-family: 'Inter', sans-serif;
-        background-image: url(./images/Rectangle\ 11\ \(1\).png);
-    }
-    /*footer*/
-    .footer-logo1{
-        width: 78px;
-        height: 71px;
-        margin-top: 63px;
-        margin-left: 64px;
-    }
-    .footer-logo2{
-        width: 130px;
-        height: 30px;
-        margin-top: 78px;
-        margin-left: 15px;
-
-    }
-    .footer-text1{
-        display: block;
-        font-weight: 400;
-        font-size: 17px;
-        line-height: 30px;
-        color: #000000;
-        margin-left: 144px;
-        margin-top: 552px;
-    }
-    .footer-text2{
-        display: block;
-        font-weight: 400;
-        font-size: 17px;
-        line-height: 30px;
-        color: #000000;
-        margin-left: 68px;
-        margin-top: 13px;
-    }
-    .footer-text3{
-        text-align: center;
-        display: block;
-        width: 319px;
-        height: 63px;
-        display: block;
-        font-weight: 400;
-        font-size: 17px;
-        line-height: 30px;
-        color: #000000;
-        margin-left: 19px;
-        margin-top: -595px;
-    }
-    .footer-text4{
-        width: 145px;
-        height: 30px;
-        display: block;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        color: #000000;
-        margin-left: 105px;
-        margin-top: 45px;
-    }
-    .footer-number{
-        width: 369px;
-        height: 48px;
-        font-weight: 700;
-        font-size: 20px;
-        line-height: 24px;
-        color: #FBBA1D;
-        margin-left: 85px
-    }
-    .bottom1{
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        color: black;
-        background-color: white;
-        padding: 7px 35px;
-        width: 130px;
-        height: 40px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        border-radius: 30px;
-        border: 1px solid #000000;
-        margin: 58px 170px 16px 114px;
-    }
-    .bottom2{
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        color: black;
-        background-color: white;
-        padding: 7px 35px;
-        width: 190px;
-        height: 40px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        border-radius: 30px;
-        border: 1px solid #000000;
-        margin: 16px 170px 16px 84px;
-        white-space: nowrap;
-    }
-    .bottom3{
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        color: black;
-        background-color: white;
-        padding: 7px 35px;
-        width: 150px;
-        height: 40px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        border-radius: 30px;
-        border: 1px solid #000000;
-        margin: 16px 170px 16px 104px;
-    }
-    .bottom-yellow{
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        color: black;
-        background-color: #FBBA1D;
-        padding: 7px 35px;
-        width: 135px;
-        height: 40px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        border-radius: 30px;
-        border: 1px solid #000000;
-        margin: 16px 170px 16px 111px;
+        margin-top: -33px;
+        margin-left: 1140px;
     }
 
 }
