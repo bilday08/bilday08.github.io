@@ -97,6 +97,7 @@
         display: block;
         margin-top: 290px;
         margin-left: 13px;
+        border: 1px solid black;
     }
     .center-button--first1{
         display: block;

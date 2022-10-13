@@ -97,6 +97,7 @@
         display: block;
         margin-top: 290px;
         margin-left: 13px;
+        border: 1px solid black;
     }
     .center-button--first1{
         display: block;
@@ -167,7 +168,7 @@
         font-size: 20px;
         line-height: 24px;
         color: #000000;
-        margin-top: 156px;
+        margin-top: 56px;
         margin-left: 60px;
         text-align: center;
         white-space: nowrap;
@@ -216,7 +217,7 @@
         font-size: 20px;
         line-height: 24px;
         color: #000000;
-        margin-top: -450px;
+        margin-top: 67px;
         margin-left: 65px;
     }
     .global-text2{
@@ -234,7 +235,7 @@
         width: 313px;
         height: 180px;
         display: block;
-        margin-top: 501px;
+        margin-top: 401px;
         margin-left: 23px;
     }
     .service-button--second{

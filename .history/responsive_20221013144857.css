@@ -97,6 +97,7 @@
         display: block;
         margin-top: 290px;
         margin-left: 13px;
+        border: 1px solid black;
     }
     .center-button--first1{
         display: block;
@@ -167,7 +168,7 @@
         font-size: 20px;
         line-height: 24px;
         color: #000000;
-        margin-top: 156px;
+        margin-top: 56px;
         margin-left: 60px;
         text-align: center;
         white-space: nowrap;
@@ -216,7 +217,7 @@
         font-size: 20px;
         line-height: 24px;
         color: #000000;
-        margin-top: -450px;
+        margin-bottom: -267px;
         margin-left: 65px;
     }
     .global-text2{
@@ -229,30 +230,6 @@
         height: 172px;
         margin-left: 47px;
         margin-top: 32px;
-    }
-    .service-images--sencond{
-        width: 313px;
-        height: 180px;
-        display: block;
-        margin-top: 501px;
-        margin-left: 23px;
-    }
-    .service-button--second{
-        text-decoration: none;
-        text-align: center;
-        display: block;
-        padding: 8px 39px;
-        color: black;
-        background-color: #FBBA1D;
-        width: 271px;
-        height: 41px;
-        font-weight: 400;
-        font-size: 20px;
-        line-height: 24px;
-        border-radius: 30px;
-        white-space: nowrap;
-        margin-left: 44px;
-        margin-top: 306px;
     }
 
 }
