@@ -6,7 +6,6 @@
 }
 .wrapper{
     max-width: 1440px;
-    height: 6153px;
 }
   /*hedder*/
 .container-top{
@@ -654,15 +653,12 @@
     margin-left: 710px;
     margin-top: 20px;
 }
-.login-contact--images1{
-    display: none;
-}
 .container-bottom{
     width: 1440px;
     height: 338px;
     background: #FBFBFB;
     font-family: 'Inter', sans-serif;
-    background-image: url(./images/Rectangle\ 10\ \(3\).png);
+    background-image: url(./images/Rectangle\ 10\ \(2\).png);
 }
 .footer-logo1{
     width: 78px;

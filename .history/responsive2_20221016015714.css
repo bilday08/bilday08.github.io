@@ -1,0 +1,82 @@
+/*mobile: width < 361px*/
+@media only screen and (max-width: 361px) {
+    /*hedder*/
+    .container-top{
+        width: 360px;
+        background-image: url(./images/Rectangle\ 8\ \(8\).png);
+        background-repeat: no-repeat;
+        background-size: auto;
+        position: absolute;
+    }
+    .herder-log{
+        width: 53.83px;
+        height: 49px;
+        margin-top: 24px;
+        margin-left: 21px;
+    }
+    .herder-log--line{
+        width: 89.72px;
+        height: 20.7px;
+        margin-top: 45.39px;
+        margin-left: 74.83px;
+    }
+    .herder-log-menu{
+        display: block;
+        width: 30px;
+        height: 30px;
+        margin-top: -29px;
+        margin-left: 305px;
+    }
+    .herder-phone--text{
+        width: 129px;
+        height: 19px;
+        margin-top: 16px;
+        margin-left: 21px;
+        white-space: nowrap;
+    }
+    .herder-phone--number{
+        width: 185px;
+        height: 24px;
+        margin-top: 8px;
+        margin-left: 21px;
+    }
+    .herder-images--contact{
+        display: none;
+    }
+    .herder-button--brand{
+        display: none;
+    }
+    .herder-button--bottom{
+        display: none;
+    }
+    .herder-images--top_center{
+        display: none;
+    }
+    .herder-background--content1{
+        width: 193px;
+        height: 43px;
+        font-weight: 600;
+        font-size: 20px;
+        line-height: 24px;
+        text-align: center;
+        color: #000000;
+        margin-left: 83px;
+    }
+    .herder-background--content2{
+        width: 328px;
+        height: 146px;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 23px;
+        text-align: center;
+        color: #000000;
+        margin-left: 16px;
+    }
+    .herder-backgroud--button1{
+        width: 271px;
+        height: 41px;
+        text-align: center;
+        margin-left: 42px;
+        margin-top: 573px;
+    }
+}

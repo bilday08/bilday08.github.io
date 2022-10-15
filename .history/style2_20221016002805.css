@@ -1,0 +1,190 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.wrapper{
+    max-width: 1440px;
+}
+  /*hedder*/
+.container-top{
+    max-width: 1440px;
+    height: 410px;
+    background-image: url(./images/Rectangle\ 8\ \(7\).png);
+    background-repeat: no-repeat;
+    background-size: auto;
+    position: absolute;
+}
+.herder-log{
+    position: absolute;
+    width: 78px;
+    height: 71px;
+    margin-top: 60px;
+    margin-left: 114px;
+}
+.herder-log--line{
+    width: 130px;
+    height: 30px;
+    margin-left: 192px;
+    margin-top: 91px;
+}
+.herder-log-menu{
+    width: 30px;
+    height: 30px;
+    display: none;
+}
+.herder-images--contact{
+    width: 308.12px;
+    height: 81.11px;
+    margin-left: 407px;
+    margin-top: -50px;
+}
+.herder-phone--text{
+    display: block;
+    width: 145px;
+    height: 30px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: black;
+    margin-left: 807px;
+    margin-top: -79px;
+    margin-right: 491px;
+}
+.herder-phone--number{
+    display: block;
+    width: 185px;
+    height: 24px;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FBBA1D;
+    margin: 4px 455px 0 800px;
+}
+.herder-button--brand{
+   text-align: center; 
+   text-decoration: none;
+   padding: 8px 39px;
+   color: black;
+   background-color: #FBBA1D;
+   width: 223px;
+   height: 41px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 30px;
+   margin-top: -39px;
+   margin-left: 1070px;
+   display: block;
+}
+.herder-button--bottom1{ 
+   text-decoration: none;
+   text-align: center;
+   display: block;
+   color: black;
+   background-color: white;
+   padding: 7px 35px;
+   width: 130px;
+   height: 40px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 30px;
+   border: 1px solid #000000;
+   margin-top: 60px;
+   margin-left: 114px;
+}
+.herder-button--bottom2{ 
+   text-decoration: none;
+   text-align: center;
+   display: block;
+   color: black;
+   background-color: white;
+   padding: 7px 35px;
+   width: 190px;
+   height: 40px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 30px;
+   border: 1px solid #000000;
+   margin-top: -40px;
+   margin-left: 264px;
+   white-space: nowrap;
+}
+.herder-button--bottom3{ 
+   text-decoration: none;
+   text-align: center;
+   display: block;
+   color: black;
+   background-color: #FBBA1D;
+   padding: 7px 35px;
+   width: 135px;
+   height: 40px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 30px;
+   border: 1px solid #000000;
+   margin-top: -40px;
+   margin-left: 474px;
+}
+.herder-button--bottom4{ 
+   text-decoration: none;
+   text-align: center;
+   display: block;
+   color: black;
+   background-color: white;
+   padding: 7px 35px;
+   width: 150px;
+   height: 40px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 30px;
+   border: 1px solid #000000;
+   margin-top: -40px;
+   margin-left: 624px;
+}
+.container-center{
+    position: absolute;
+    width: 1440px;
+}
+.herder-background--content1{
+    width: 427px;
+    height: 95px;
+    font-weight: 600;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+    margin-left: 800px;
+    margin-top: 132px;
+}
+.herder-background--content2{
+    width: 535px;
+    height: 120px;
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 30px;
+    color: #000000;
+    margin-top: 28px;
+    margin-left: 800px;
+}
+.herder-backgroud--button1{ 
+   text-decoration: none;
+   text-align: center;
+   display: block;
+   padding: 8px 39px;
+   color: black;
+   background-color: #FBBA1D;
+   width: 271px;
+   height: 41px;
+   font-weight: 400;
+   font-size: 20px;
+   line-height: 24px;
+   border-radius: 30px;
+   margin-top: 43px;
+   margin-left: 800px;
+   white-space: nowrap;
+}

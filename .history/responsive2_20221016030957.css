@@ -1,9 +1,5 @@
 /*mobile: width < 361px*/
 @media only screen and (max-width: 361px) {
-    .wrapper{
-        max-width: 1440px;
-        height: 5000px;
-    }
     /*hedder*/
     .container-top{
         width: 360px;
@@ -588,7 +584,7 @@
         height: 788px;
         background: #FBFBFB;
         font-family: 'Inter', sans-serif;
-        background-image: url(./images/Rectangle\ 11\ \(3\).png);
+        background-image: url(./images/Rectangle\ 11\ \(1\).png);
     }
      /*footer*/
      .footer-logo1{
