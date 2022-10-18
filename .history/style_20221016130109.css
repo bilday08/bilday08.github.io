@@ -4,12 +4,13 @@
     margin: 0;
     padding: 0;
 }
-/*body{
+body{
     overflow-x: hidden;
-}*/
+}
 .wrapper{
-    max-width: 1440vw;
+    max-width: 1440px;
     height: 5235px;
+    overflow: hidden;
 }
   /*hedder*/
 .container-top{
